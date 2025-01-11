@@ -50,6 +50,10 @@
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 />
 <img
+  alt="Node.js"
+  src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"
+/>
+<img
     alt="Django"
     src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
 />
@@ -77,6 +81,10 @@
     alt="Regex"
     src="https://img.shields.io/badge/Regex-663399?style=for-the-badge&logo=code&logoColor=white"
 />
+<img
+    alt="Git"
+    src="https://img.shields.io/badge/git-0c0c0c.svg?style=for-the-badge&logo=git&logoColor=white"
+  />
 <img
     alt="Java"
     src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"
