@@ -11,16 +11,6 @@
     alt="YouTube"
     src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"
 />
-<a href="https://t.me/+qUyaqI5KDQpjMTk0">
-<img
-    alt="Telegram"
-    src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-/>
-<a href="https://discord.com/invite/6aFVrEcd">
-<img
-    alt="Discord"
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-/>
 
 
  ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> Skills
