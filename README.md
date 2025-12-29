@@ -5,14 +5,6 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&color=bf00ff&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Programming+Month;Nice+to+meet+you" />
 </h1>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Ways to contact us:
-<a href="https://www.youtube.com/channel/UCLLHp-Ux-VAMCW7HruxCxZw">
-<img
-    alt="YouTube"
-    src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"
-/>
-
-
  ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> Skills
 
 <img
